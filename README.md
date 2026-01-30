@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# プロジェクト名: Valu-Maker
 
-## Getting Started
+## 1. 提出者情報
+- **学籍番号**: 2540059
+- **氏名**: 大沼 海翔
+- **所属**: 武蔵野大学 アントレプレナーシップ学部 (EMC)
 
-First, run the development server:
+## 2. サービスコンセプト
+- 「個人の挑戦を価値に変える」。日々の学びを投稿し、その活動を時価総額チャートとして可視化するプラットフォーム。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 3. 主要機能 (Level 0 要件)
+- **タイムライン機能**: 自分の挑戦や学びをシェアできます。
+- **投稿削除機能**: 不要になった投稿を管理できます。
+- **株価チャート機能**: 活動実績をグラフで表示します。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 4. 開発環境スクリーンショット (Level 2 要件)
+![Localhost Screenshot](./screenshot.png)
